@@ -1,4 +1,4 @@
-package com.prediction.RecommendApp;
+package com.sapphirine.rf.test.MovieRecommender;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
